@@ -14,7 +14,7 @@
 <XPD:ATTR name="Author" type="string">DreamLi</XPD:ATTR>
 <XPD:ATTR name="Company" type="string">Inetsoft</XPD:ATTR>
 <XPD:ATTR name="Copyright" type="string">Inetsoft</XPD:ATTR>
-<XPD:ATTR name="#OwnedElements" type="integer">1</XPD:ATTR>
+<XPD:ATTR name="#OwnedElements" type="integer">2</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLModel" guid="CcMW4X8CC0uS3HIyGwyWzwAA">
 <XPD:ATTR name="Name" type="string">SimpleFactory</XPD:ATTR>
 <XPD:REF name="Namespace">mLBXVIG7LUqoWQMDf188gAAA</XPD:REF>
@@ -830,6 +830,18 @@
 <XPD:REF name="Views[1]">xno2Q+Ius0KIqTN4nLsRyQAA</XPD:REF>
 <XPD:REF name="Views[2]">RGT7FQM9y0WE2CN1vO0bDAAA</XPD:REF>
 <XPD:REF name="Views[3]">Q58PLRNolkeUIEYFtrJiwgAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[1]" type="UMLModel" guid="kIFKWHOFQEiVBRRpPBuKigAA">
+<XPD:ATTR name="Name" type="string">FactoryMethod</XPD:ATTR>
+<XPD:REF name="Namespace">mLBXVIG7LUqoWQMDf188gAAA</XPD:REF>
+<XPD:ATTR name="#OwnedDiagrams" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="OwnedDiagrams[0]" type="UMLClassDiagram" guid="vTWVjAxH90q52X6Pi38yeQAA">
+<XPD:ATTR name="Name" type="string">FactoryMethod</XPD:ATTR>
+<XPD:REF name="DiagramOwner">kIFKWHOFQEiVBRRpPBuKigAA</XPD:REF>
+<XPD:OBJ name="DiagramView" type="UMLClassDiagramView" guid="mZnRbnlWGkq9dlWihli78gAA">
+<XPD:REF name="Diagram">vTWVjAxH90q52X6Pi38yeQAA</XPD:REF>
+</XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
